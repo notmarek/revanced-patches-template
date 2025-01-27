@@ -1,5 +1,6 @@
 package app.revanced.patches.slopes.misc.premium
 
+import app.revanced.patches.slopes.misc.premium.Fingerprints
 import app.revanced.patcher.extensions.InstructionExtensions.addInstructions
 import app.revanced.patcher.patch.bytecodePatch
 
