@@ -4,7 +4,7 @@ import app.revanced.patcher.extensions.InstructionExtensions.addInstructions
 import app.revanced.patcher.patch.bytecodePatch
 
 @Suppress("unused")
-val unlockPremiumPatch = bytecodePatch(
+val getUnlockPremiumPatch = bytecodePatch(
     name = "Unlock Premium",
 ) {
     compatibleWith("com.consumedbycode.slopes")
