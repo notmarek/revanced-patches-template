@@ -1,3 +1,3 @@
-public final class app/revanced/patches/slopes/misc/premium/UnlockePremiumKt {
-	public static final fun unlockPremiumPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+public final class app/revanced/patches/slopes/misc/premium/UnlockPremiumKt {
+  	public static final fun getUnlockPremiumPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
